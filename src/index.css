@@ -21,7 +21,7 @@ header {
 }
 
 .app {
-  background: /*url(../src/images/hoshizora55.png)*/url(https://sozaino.site/wp-content/uploads/2022/02/piko92.png);
+  background: url(https://sozaino.site/wp-content/uploads/2022/02/piko92.png);
   background-repeat: no-repeat;
   height: 140vh;
 }
